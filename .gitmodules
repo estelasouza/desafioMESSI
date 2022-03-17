@@ -1,0 +1,6 @@
+[submodule "01-Git"]
+	path = 01-Git
+	url = https://github.com/rfsj/Monitoria-Git
+[submodule "02-Node+Express"]
+	path = 02-Node+Express
+	url = https://github.com/silvercent011/Monitoria-Node-Express
