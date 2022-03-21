@@ -9,7 +9,7 @@
 
 <h5 style="color: #FFF">Aula</h5>
 
-[Slide](slide.pptx)
+[Slide](https://docs.google.com/presentation/d/1m05-YNcmCt4nboclA4RUOtTLdTM8OepXlo_SG8grU9o/edit?usp=sharing)
 
 <h5 style="color: #FFF">Links úteis</h5>
 
