@@ -1,6 +1,6 @@
 <div style="width: 100%; background-color: #4A0D67; padding: 5%; color: #FFF; margin: 0;" >
 
-<h1 style="color: #FFF">Monitoria-ES-Heroku Pipeline</h1>
+<h1 style="color: #FFF">Monitoria 05 de Engenharia de Software - Heroku Pipeline</h1>
 <h5 style="color: #FFF">Autor</h5>
 
 - [@Renabouj](https://github.com/Renabouj)
