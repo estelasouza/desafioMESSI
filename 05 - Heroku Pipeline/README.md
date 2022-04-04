@@ -3,7 +3,7 @@
 <h1 style="color: #FFF">Monitoria 05 de Engenharia de Software - Heroku Pipeline</h1>
 <h5 style="color: #FFF">Autor</h5>
 
-- [@Renabouj](https://github.com/Renabouj)
+[@Renabouj](https://github.com/Renabouj)
 
 <h5 style="color: #FFF">Aula</h5>
 
